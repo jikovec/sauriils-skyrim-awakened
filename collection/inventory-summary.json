@@ -1,0 +1,51 @@
+{
+  "working_title": "Sauriil's Skyrim Awakened",
+  "release": "v0.0.3",
+  "profile": "AI-Overhaul-v0.0.3",
+  "modlist_sha256": "caad2c6b7c651c5030cf9cc582d46a3982027977f296d08cd80192a61e28f57b",
+  "plugins_sha256": "1e8b78a10c24f60208e1761ba5e8fd4bc7252f70ec58590b9135fcfe939900c5",
+  "loadorder_sha256": "90a1a7e2c16af7536462324284a2682631cb8709ac53fa11d0dc40449a2d92b7",
+  "enabled_mod_folders": 618,
+  "external_reference_folders": 579,
+  "core_or_derived_folders": 39,
+  "disabled_candidates": 92,
+  "sections": {
+    "80 Performance and Grass": 42,
+    "75 Sound and Music": 15,
+    "70 Lighting Weather Effects": 18,
+    "62 Cities Towns Interiors": 113,
+    "61 Followers": 20,
+    "60 New Lands": 22,
+    "52 Territory and Living World": 22,
+    "51 Quests": 32,
+    "50 NPC Behaviour and Dialogue": 44,
+    "44 Economy Equipment Travel": 23,
+    "43 Survival and Hunting": 11,
+    "42 Simonrim": 34,
+    "41 Combat and Camera": 8,
+    "40 Animation": 49,
+    "33 Characters and Faces": 14,
+    "32 Vegetation and Creatures": 26,
+    "31 Textures and Meshes": 47,
+    "30 Community Shaders": 7,
+    "20 User Interface": 8,
+    "10 AI Core": 8,
+    "01 Frameworks": 24,
+    "00 Engine and Foundation": 31
+  },
+  "local_classes": {
+    "generated-voice-cache-private": 1,
+    "local-custom-or-derivative-review": 38
+  },
+  "locked_archives": 581,
+  "ambiguous_archives": 0,
+  "nexus_source_entries": 577,
+  "enabled_explicit_plugins": 966,
+  "warnings": [
+    "Ownership labels are provisional, not redistribution permission.",
+    "Reference-only: no third-party files are bundled.",
+    "Disabled items are NOT verified optional installs.",
+    "Exact v0.0.3 gameplay acceptance has not yet been observed.",
+    "No generated production DynDOLOD is included."
+  ]
+}

@@ -1,0 +1,93 @@
+priority_line	section	name	modid	version	repository	url	option_status
+3	80 Performance and Grass	Test - CHIM Living Candidate 20261110	0	20261110			test-or-diagnostic
+4	80 Performance and Grass	Test - CHIM Hands-Free Dialogue 20261109	0	20261109			test-or-diagnostic
+5	80 Performance and Grass	Test - CHIM Hands-Free Injection 20261109	0	20261109			test-or-diagnostic
+7	80 Performance and Grass	AI Overhaul v0.0.1 - CHIM Client	0	3.5.1-handsfree-r1			candidate-unverified
+8	80 Performance and Grass	Play - CHIM Hands-Free Voice 3.5.1	0	3.5.1-handsfree-r1			candidate-unverified
+9	80 Performance and Grass	Test - Release Qualification		20261104			test-or-diagnostic
+10	80 Performance and Grass	Test - Lifecycle Menu 20261107	0	1.0.0			test-or-diagnostic
+37	80 Performance and Grass	Test - CHIM Roleplay Calibration Server					test-or-diagnostic
+40	80 Performance and Grass	Repair - CHIM Nonvisual Qualification	0	1.0.0			candidate-unverified
+41	80 Performance and Grass	Repair - Effect glow texture dependency	0			https://www.nexusmods.com/skyrimspecialedition/mods/29316	candidate-unverified
+43	80 Performance and Grass	Repair - Engine Fixes NoFormCache diagnostic					test-or-diagnostic
+44	80 Performance and Grass	Repair - Engine Fixes CRT diagnostic					test-or-diagnostic
+45	80 Performance and Grass	Repair - Automated transition probe					test-or-diagnostic
+46	80 Performance and Grass	xLODGen Resource - SSE Terrain Tamriel	54680	2.0	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/54680	candidate-unverified
+47	80 Performance and Grass	SSE FPS Stabilizer	38438	1.1.14	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/38438	candidate-unverified
+48	80 Performance and Grass	NGIO - Vanilla Grass Bounds Patch	42161	1	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/42161	candidate-unverified
+49	80 Performance and Grass	NGIO - Cathedral 3D Landscapes Grass Bounds Patch	42161	1	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/42161	candidate-unverified
+57	80 Performance and Grass	CoTN Falkreath - Optimised and eFPS Fix	117094	i1.1	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/117094	candidate-unverified
+64	75 Sound and Music	Immersive Music	16402	3.2	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/16402	candidate-unverified
+82	70 Lighting Weather Effects	JK's Skyrim and Simplicity of Snow Patch	101567	1.1	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/101567	candidate-unverified
+85	70 Lighting Weather Effects	Voltage VFX Fix	74757	1.2	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/74757	candidate-unverified
+99	70 Lighting Weather Effects	Azurite III CS	162153	1.2.1	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/162153	candidate-unverified
+102	62 Cities Towns Interiors	JK's Tel Mithryn	151512	1.0.2	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/151512	candidate-unverified
+103	62 Cities Towns Interiors	JK's Raven Rock	141070	1.0.6	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/141070	candidate-unverified
+104	62 Cities Towns Interiors	Spaghetti's Orc Strongholds - AIO	95926	1.3	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/95926	candidate-unverified
+142	62 Cities Towns Interiors	EVG Animated Traversal Addon for Windhelm Capital Expansion	71079	1.1	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/71079	candidate-unverified
+143	62 Cities Towns Interiors	Capital Windhelm Expansion - JK United Exterior Seam Fix	68735	1.1	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/68735	candidate-unverified
+235	61 Followers	Lucien - Creation Club - Saints and Seducers Patch	20035	1.6.2	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/20035	candidate-unverified
+247	60 New Lands	Sunhelm Apothecary Food Forgotten City patch	94126	1	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/94126	candidate-unverified
+248	60 New Lands	The Forgotten City - Delayed Start	56958	1.00	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/56958	candidate-unverified
+252	60 New Lands	Interesting NPCs SE (3DNPC) - Bard Fix	64670	1.0	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/64670	candidate-unverified
+255	60 New Lands	Rogue's Gallery	99482	1.0.0.1	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/99482	candidate-unverified
+256	60 New Lands	Interesting NPCs (3DNPC) Script Fixes	87245	2.1	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/87245	candidate-unverified
+292	52 Territory and Living World	Missives - Voice and Quest Expansion	166094	1.6.3	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/166094	candidate-unverified
+293	52 Territory and Living World	Missives - Worldspace Additions	26788	2.13.2	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/26788	candidate-unverified
+297	51 Quests	At Your Own Pace - Inigo Patch	52704	1.0.0IG	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/52704	candidate-unverified
+298	51 Quests	At Your Own Pace	52704	2.1.0	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/52704	candidate-unverified
+328	51 Quests	Timing is Everything SE - Settings Loader	57754	1.0.1	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/57754	candidate-unverified
+348	50 NPC Behaviour and Dialogue	NPCs Wear Amulets of Mara PLUS	66125	2.03	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/66125	candidate-unverified
+368	50 NPC Behaviour and Dialogue	Guard Dialogue Overhaul MCM	50853	1.3.1	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/50853	candidate-unverified
+379	44 Economy Equipment Travel	Experience Quests Tweak	57706	1.0	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/57706	candidate-unverified
+380	44 Economy Equipment Travel	No Startup Quest XP - Sunhelm Patch	55682	1.0.1	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/55682	candidate-unverified
+381	44 Economy Equipment Travel	Experience - MCM	65880	1.4.0	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/65880	candidate-unverified
+382	44 Economy Equipment Travel	Experience	17751	3.7.4	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/17751	candidate-unverified
+395	44 Economy Equipment Travel	Dwemer Metals Retexture SE	181444	1.1.1	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/181444	candidate-unverified
+398	44 Economy Equipment Travel	CC Fishing - CFTO - Honeyside Patch (BOS)	113553	1.0	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/113553	candidate-unverified
+399	44 Economy Equipment Travel	CFTO Ferry Integration Patches	69057	2.1.1	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/69057	candidate-unverified
+405	44 Economy Equipment Travel	Honed Metal Voice Tweak	34393	2.0	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/34393	candidate-unverified
+406	44 Economy Equipment Travel	Honed Metal Additional Materials UPDATED	51254	1.3	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/51254	candidate-unverified
+410	44 Economy Equipment Travel	Trade and Barter - Patches (Bruma)	23220	1.1	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/23220	candidate-unverified
+414	43 Survival and Hunting	Carry Your Carcasses - SHO	62628	1.1	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/62628	candidate-unverified
+423	43 Survival and Hunting	Survival Control Panel	41891	1.1.2	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/41891	candidate-unverified
+424	43 Survival and Hunting	Sunhelm Patch for CC Survival Food	143751	1.0	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/143751	candidate-unverified
+428	42 Simonrim	JKs Temple of the Divines - Pilgrim Patch	109432	1.0	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/109432	candidate-unverified
+429	42 Simonrim	Hand to Hand - Nordic UI Consistency Patch	59790	1.0.2	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/59790	candidate-unverified
+432	42 Simonrim	Beyond Skyrim plus Mysticism - spell tome coherence patch	92550	Yes	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/92550	candidate-unverified
+433	42 Simonrim	Wyrmstooth - Mysticism Consistency Patch	80993	1.0	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/80993	candidate-unverified
+438	42 Simonrim	Sorcerer Synthesis Patcher	95212	1.1.0	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/95212	candidate-unverified
+439	42 Simonrim	Sorcerer - COTN Winterhold Patch	95212	1.0.0	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/95212	candidate-unverified
+441	42 Simonrim	Apothecary - Hand to Hand Fixes	87727	1.0.0	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/87727	candidate-unverified
+442	42 Simonrim	Missile's Apothecary Patches	52188	19	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/52188	candidate-unverified
+444	42 Simonrim	Missile's Gourmet Patches	97285	1.0.7	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/97285	candidate-unverified
+445	42 Simonrim	Gourmet Patch Page	97050	1.2	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/97050	candidate-unverified
+448	42 Simonrim	Candlehearth - Bruma no bathhouse door Patch	98412	1.17.1	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/98412	candidate-unverified
+465	42 Simonrim	Arena - Harder Easy Spawns	33487	1.1.2	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/33487	candidate-unverified
+475	41 Combat and Camera	Dynamic Block Hit Rebalanced	183368	1.1	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/183368	candidate-unverified
+479	41 Combat and Camera	Improved Camera - Patch Collection	94096	7	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/94096	candidate-unverified
+482	41 Combat and Camera	TrueHUD - Simonrim Settings	184207	1.0.0	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/184207	candidate-unverified
+519	40 Animation	Vanargand Animations - Dual Wield Normal and Power Attacks	63566	1.1	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/63566	candidate-unverified
+528	40 Animation	Conditional Expressions Extended	91438	2.3.0	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/91438	candidate-unverified
+536	40 Animation	1st Person Interact Animation Teleport Bug Fix	92795	1.0.0	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/92795	candidate-unverified
+540	33 Characters and Faces	SMP-NPC crash fix	91616	1	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/91616	candidate-unverified
+541	33 Characters and Faces	FSMP - Faster HDT-SMP	57339	3.5.0	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/57339	candidate-unverified
+558	32 Vegetation and Creatures	Diverse Dragons Collection SE	695	2.1.3	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/695	candidate-unverified
+560	32 Vegetation and Creatures	Fluffworks (Fluffy Animals)	56361	1.1f	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/56361	candidate-unverified
+582	32 Vegetation and Creatures	Happy Little Trees - DLC Trees (Base Object Swapper)	75006	2.0	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/75006	candidate-unverified
+589	31 Textures and Meshes	ElSopa - HD Better Bloody Rags SE	44059	1.0	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/44059	candidate-unverified
+590	31 Textures and Meshes	ElSopa - Misc Ruins Redone	153797	1.0	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/153797	candidate-unverified
+612	31 Textures and Meshes	Saints and Seducers Retexture SE - Half Res	151116	1.1.0	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/151116	candidate-unverified
+634	31 Textures and Meshes	Ruins Clutter Improved - Fixes	21031	1.2	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/21031	candidate-unverified
+639	30 Community Shaders	Terrain Helper	143149	1.1.0	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/143149	candidate-unverified
+640	30 Community Shaders	Upscaling - Community Shaders	156952	1.4.0	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/156952	candidate-unverified
+641	30 Community Shaders	HDR - Community Shaders	179371	1.2.2	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/179371	candidate-unverified
+650	20 User Interface	Nordic-ish - TrueHUD preset based on Nordic UI	63212	1.1.1	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/63212	candidate-unverified
+651	20 User Interface	Nordic UI Icons for Sunhelm and iNeed Widgets	61823	1.1	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/61823	candidate-unverified
+655	20 User Interface	Compass Navigation Overhaul - Nordic UI Skin	74484	2.1	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/74484	candidate-unverified
+656	20 User Interface	Compass Navigation Overhaul	74484	2.2.0	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/74484	candidate-unverified
+672	01 Frameworks	A-Pose Bug Fix - Universal Behavior Runtime	168903	v1.1.0-a	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/168903	candidate-unverified
+683	01 Frameworks	Simonrim SKSE Addons - Power Attack Speed Perks	188102	1.0.0	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/188102	candidate-unverified
+698	01 Frameworks	Runtime File Resolver	194279	1.3	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/194279	candidate-unverified
+721	00 Engine and Foundation	Barter Limit Fix	77173	1.0.2	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/77173	excluded-compatibility
+733	Unsectioned	The Cursed Tribe - Quest Expansion	171220	1.0.3	Nexus	https://www.nexusmods.com/skyrimspecialedition/mods/171220	excluded-compatibility
