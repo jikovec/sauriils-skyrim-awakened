@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+set -euo pipefail
+cd -- "$(dirname -- "$0")/.."
+case "${1:-verify}" in
+    doctor) python3 --version ;;
+    verify) python3 scripts/verify-catalog.py ;;
+    *) printf 'Usage: bash scripts/check [doctor|verify]\n' >&2; exit 2 ;;
+esac

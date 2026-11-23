@@ -14,7 +14,7 @@ The public **Complete** recipe is the exact enabled v0.0.3 profile. It includes 
 
 ## Disabled entries: candidates versus exclusions
 
-The installed v0.0.3 profile also has **92 disabled entries**. [See the exhaustive table](optional-inactive-candidates.tsv), with section, source and conservative status. They are **not part of Complete** and are **not verified add-ons**.
+The installed v0.0.3 profile also has **92 disabled entries**. The [inactive catalog](../collection/inactive.tsv) records their sections, sources and provisional status. They require separate qualification before inclusion.
 
 Specific examples:
 

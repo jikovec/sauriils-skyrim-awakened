@@ -1,0 +1,32 @@
+name: Public catalog
+on:
+  pull_request:
+  push:
+    branches: [main]
+permissions:
+  contents: read
+concurrency:
+  group: catalog-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  verify:
+    name: Collection catalog and hygiene
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          persist-credentials: false
+      - name: Fetch pinned public Core verifier
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          repository: jikovec/sauriils-skyrim-awakened-core
+          ref: e6e4aa669119b846c8269f334a65c68df974c671
+          path: .core-check
+          sparse-checkout: scripts/verify-public.py
+          sparse-checkout-cone-mode: false
+          persist-credentials: false
+      - name: Verify catalog, public paths and links
+        run: |
+          bash scripts/check verify
+          python3 .core-check/scripts/verify-public.py --scope collection --root .

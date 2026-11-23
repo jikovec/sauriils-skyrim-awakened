@@ -1,6 +1,6 @@
 # Sauriil's Skyrim Awakened — Complete Collection
 
-**A reference catalog, not a redistributed modpack.** This is the exact third-party side of the installed `AI-Overhaul-v0.0.3` MO2 profile, preserving names, profile order and source IDs where available. It depends on the matching [Awakened Core](CORE.md).
+This reference catalog records the third-party side of the installed `AI-Overhaul-v0.0.3` MO2 profile, preserving names, profile order and source IDs where available. It depends on the matching [Awakened Core](https://github.com/jikovec/sauriils-skyrim-awakened-core).
 
 **Scope:** 579 third-party/reference entries, plus 39 locally produced/derived package folders in Core, for 618 enabled folders. The game itself, Steam/Skyrim DLC, official Creation Club files, MO2, Proton and external AI runtimes are separate prerequisites, not included downloads.
 
@@ -45,8 +45,8 @@
 
 ## Machine-readable downloads and exact pinning
 
-- [Every reference with original local metadata](collection-referenced-mods.tsv). Nexus URLs are taken from `meta.ini` or a recorded Nexus mod ID; file IDs and archive SHA-256 hashes come from the project's existing lockfiles only when unambiguous.
-- [Every installed enabled row including Core](full-profile-all-enabled.tsv) for profile order and exact membership.
+- [Every reference with original local metadata](../collection/references.tsv). Nexus URLs are taken from `meta.ini` or a recorded Nexus mod ID; file IDs and archive SHA-256 hashes come from the project's existing lockfiles only when unambiguous.
+- [Every installed enabled row including Core](../collection/full-profile.tsv) for profile order and exact membership.
 - Not every installed entry maps to a unique public archive. Some mod folders are FOMOD variants, extracted author patches or locally configured copies. A missing source URL/file ID is explicitly unresolved, **not authorization to reupload**.
 
 ## Complete alphabetic-independent reference index
