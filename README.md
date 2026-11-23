@@ -25,3 +25,5 @@ The installed baseline targets Skyrim SE 1.6.1170 / SKSE 2.2.8 with MO2, pinned 
 Our original reference list and metadata are dedicated to the public domain under **CC0-1.0** in `LICENSE`, to the extent we own them. This does **not** waive or confer any rights over third-party mod files, source projects, trade marks, art, character voices or game assets.
 
 The linked [Core](https://github.com/jikovec/sauriils-skyrim-awakened-core) uses a separate GPL/CC-BY licensing scheme for its own original software and documentation.
+
+For work on references or on the Core/Collection boundary, start with the [engineering orientation](docs/engineering/README.md).
