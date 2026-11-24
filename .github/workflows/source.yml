@@ -10,7 +10,7 @@ concurrency:
   cancel-in-progress: true
 jobs:
   verify:
-    name: Collection catalog and hygiene (renamed)
+    name: Collection catalog and hygiene
     runs-on: ubuntu-24.04
     timeout-minutes: 5
     steps:
