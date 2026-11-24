@@ -1,1 +1,0 @@
-Deliberately disallowed public path for the failing case.
