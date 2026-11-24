@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "required_check": {
+    "workflow": "Public catalog",
+    "context": "Collection catalog and hygiene",
+    "app": "github-actions",
+    "integration_id": 15368
+  },
+  "events": {
+    "pull_request": null,
+    "push": {"branches": ["main"]}
+  },
+  "permissions": {"contents": "read"},
+  "runners": ["ubuntu-24.04"],
+  "actions": {
+    "actions/checkout": "11bd71901bbe5b1630ceea73d27597364c9af683"
+  },
+  "repositories": {
+    "jikovec/sauriils-skyrim-awakened-core": "8740745189e26ab43a314b7f37e2ab4c9ca63c1b"
+  }
+}
